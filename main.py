@@ -1,1 +1,1 @@
-hi "world"
+print 'hello'
